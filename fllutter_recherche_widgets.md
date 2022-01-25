@@ -1,13 +1,13 @@
 LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 ------------------------------------------------------
 
-#Accessibility
+#Accessibility :
 	*ExcludeSemantics
 	*MergeSemantics
 	*Semantics
 
 
-#Animation and Motion
+#Animation and Motion : 
 	*AnimatedAlign
 	*AnimatedBuilder
 	*AnimatedContainer
@@ -31,19 +31,19 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*SlideTransition
 
 
-#Assets, Images, and Icons
+#Assets, Images, and Icons :
 	*AssetBundle
 	*Icon
 	*Image
 	*RawImage
 
 
-#Async
+#Async :
 	*FutureBuilder
 	*StreamBuilder
 
 
-#Basics
+#Basics :
 	Appbar
 	Column
 	Container
@@ -57,7 +57,7 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	Text
 
 
-#Cupertino (iOS-style widgets)
+#Cupertino (iOS-style widgets) : 
 	*CupertinoActionSheet
 	*CupertinoActivityIndicator
 	*CupertinoAlertDialog
@@ -85,14 +85,14 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*CupertinoTimerPicker
 
 
-#Input
+#Input : 
 	*Autocomplete
 	*Form
 	*FormField
 	*RawKeyboardListener
 
 
-#Interaction Models
+#Interaction Models : 
 	*AbsorbPointer
 	*Dismissible
 	*DragTarget
@@ -107,7 +107,7 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*Navigator
 
 
-#Layout
+#Layout : 
 	*Align
 	*AspectRatio
 	*Baseline
@@ -152,7 +152,7 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*SliverToBoxAdapter
 
 
-#Material Components
+#Material Components : 
 	*Appbar
 	*BottomNavigationBar
 	*Drawer
@@ -196,7 +196,7 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*Stepper
 
 
-#Painting and effects
+#Painting and effects : 
 	*BackdropFilter
 	*ClipOval
 	*ClipPath
@@ -209,7 +209,7 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*Transform
 
 
-#Scrolling
+#Scrolling : 
 	*CustomScrollView
 	*DraggableScrollableSheet
 	*GridView
@@ -225,13 +225,13 @@ LISTE DES DIFFERENTES CATEGORIES DE WIDGETS EN FLUTTER
 	*SingleChildScrollView
 
 
-#Styling
+#Styling : 
 	*MediaQuery
 	*Padding
 	*Theme
 
 
-#Text
+#Text : 
 	*DefaultTextStyle
 	*RichText
 	*Text
